@@ -1,4 +1,4 @@
-Temper=200
+temper=200
 while temper>10:
   print(temper)
   temper=temper-1
